@@ -1,6 +1,6 @@
 {"nodes":[
 {"name":"Top.level","group":1}, 
-{"name":"Level.3.A","group":2}, 
+{"name":"Level.3.A","group":1}, 
 {"name":"Son.of.A","group":1},
 {"name":"Daughter.of.A","group":1}, 
 {"name":"Level.2.B","group":1}
